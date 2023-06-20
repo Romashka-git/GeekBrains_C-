@@ -1,4 +1,4 @@
 ﻿Console.WriteLine("Hello, World!" + " Как дела?");
-Console.WriteLine("Как Вас зовут?");
+Console.Write("Как Вас зовут? ");
 string a = Console.ReadLine();
 Console.WriteLine("Привет, " + a);
