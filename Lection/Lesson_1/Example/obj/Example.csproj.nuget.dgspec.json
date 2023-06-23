@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zhuravlev.ra\\Documents\\C#\\Lection\\Lesson_1\\Example\\Example.csproj": {}
+    "c:\\Users\\zhuravlev.ra\\Documents\\C#\\Lection\\Lesson_1\\Example\\Example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zhuravlev.ra\\Documents\\C#\\Lection\\Lesson_1\\Example\\Example.csproj": {
+    "c:\\Users\\zhuravlev.ra\\Documents\\C#\\Lection\\Lesson_1\\Example\\Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zhuravlev.ra\\Documents\\C#\\Lection\\Lesson_1\\Example\\Example.csproj",
+        "projectUniqueName": "c:\\Users\\zhuravlev.ra\\Documents\\C#\\Lection\\Lesson_1\\Example\\Example.csproj",
         "projectName": "Example",
-        "projectPath": "C:\\Users\\zhuravlev.ra\\Documents\\C#\\Lection\\Lesson_1\\Example\\Example.csproj",
+        "projectPath": "c:\\Users\\zhuravlev.ra\\Documents\\C#\\Lection\\Lesson_1\\Example\\Example.csproj",
         "packagesPath": "C:\\Users\\zhuravlev.ra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zhuravlev.ra\\Documents\\C#\\Lection\\Lesson_1\\Example\\obj\\",
+        "outputPath": "c:\\Users\\zhuravlev.ra\\Documents\\C#\\Lection\\Lesson_1\\Example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zhuravlev.ra\\AppData\\Roaming\\NuGet\\NuGet.Config"
