@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите ваше имя");
+﻿Console.WriteLine("Введите ваше имя: ");
 string name = Console.ReadLine();
 if (name.ToLower() == "заюш")
     {
@@ -6,5 +6,5 @@ if (name.ToLower() == "заюш")
     }
 else
 {
-    Console.WriteLine("Hello");
+    Console.WriteLine($"Hello, {name}");
 }
