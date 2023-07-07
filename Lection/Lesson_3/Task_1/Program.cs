@@ -19,6 +19,7 @@ string Method3 (string text, int count)
     for (int i = 0; i < count; i++)
     {
         result = result + text;
+        System.Console.WriteLine(result);
     }
     return result;
 }
